@@ -1,0 +1,22 @@
+{
+    "0.png" : ["dark"],
+    "1.png" : ["dark", "bright"],
+    "2.png" : ["dark", "red", "warm"],
+    "3.png" : ["bright", "red", "warm"],
+    "4.png" : ["orange", "red", "warm", "bright"],
+    "5.png" : ["yellow", "warm",  "bright"],
+    "6.png" : ["green", "bright"],
+    "7.png" : ["blue", "cool", "bright"],
+    "8.png" : ["dark", "blue", "cool"],
+    "9.png" : ["dark", "purple", "warm", "cool"],
+    "10.png" : ["white", "bright"],
+    "11.png" : ["gray", "white", "bright"],
+    "12.png" : ["brown", "orange", "bright"],
+    "13.png" : ["pink", "bright", "warm", "red"],
+    "14.png" : ["yellow", "orange", "warm", "bright"],
+    "15.png" : ["gray", "yellow", "warm", "bright"],
+    "16.png" : ["green", "yellow",  "bright"],
+    "17.png" : ["light", "gray", "cool", "blue"],
+    "18.png" : ["dark", "gray", "blue", "cool"],
+    "19.png" : ["bright", "purple", "white"]
+}
