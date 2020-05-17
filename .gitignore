@@ -1,0 +1,21 @@
+!README.md
+env
+**/__pycache__
+.vscode
+!README.md
+.venv
+
+# dependencies
+**/node_modules
+**/pyvrt
+
+# production
+**/build
+**/dist
+
+# misc
+.DS_Store
+
+# temp folders
+**/uploads
+**/saved_models

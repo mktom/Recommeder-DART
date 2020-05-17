@@ -1,6 +1,6 @@
 ## Step 1: Clone the repo to your local system
 ```
-git clone https://github.com/unsw-cse-comp3900-9900/capstone-project-2nd-best
+git clone https://github.com/mktom/Reccomender-DART
 ```
 
 ## Step 2: Install NodeJS on local system
@@ -100,7 +100,7 @@ Please refer to your "https://localhost:[Your-Flask-Port]/doco" for futher docum
 ## Note 2:
 For your convenience you can use *'npm run upgrade'* to install both node and python packages, as well as specify your python environment in *package.json*. If you choose to, please, **FIRST** install:
 
-    npm run --save shelljs readline-sync
+    npm install --save shelljs readline-sync
 
 ## Note 3:
 To make sure any previous instances of MongoDB are no longer running:
